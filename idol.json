@@ -1,0 +1,84 @@
+{
+  "result": [
+    {
+      "name": "Jungkook",
+      "group": "BTS",
+      "position": "Main Vocalist",
+      "birth_year": "1997",
+      "nationality": "Korea Selatan",
+      "image": "https://i.imgur.com/tN6d69d.jpg"
+    },
+    {
+      "name": "Pocoyo",
+      "group": "Pocoyoooo",
+      "position": "Main Dancer, Rapper",
+      "birth_year": "2025",
+      "nationality": "Indonesia",
+      "image": "https://imgur.com/XYKqmFK"
+    },
+    {
+      "name": "BUBUBB",
+      "group": "Michieea",
+      "position": "Leader, Main Dancer",
+      "birth_year": "2003",
+      "nationality": "Korea Selatan",
+      "image": "https://imgur.com/OG1lNC1"
+    },
+    {
+      "name": "Taeyong",
+      "group": "NCT",
+      "position": "Leader, Rapper",
+      "birth_year": "1995",
+      "nationality": "Korea Selatan",
+      "image": "https://i.imgur.com/PRmK4me.jpg"
+    },
+    {
+      "name": "IU",
+      "group": "Soloist",
+      "position": "Vocalist",
+      "birth_year": "1993",
+      "nationality": "Korea Selatan",
+      "image": "https://i.imgur.com/IDxOHg6.jpg"
+    },
+    {
+      "name": "Park Seo JOON",
+      "group": "Actor Korea",
+      "position": "Solo",
+      "birth_year": "1988",
+      "nationality": "Korea",
+      "image": "https://imgur.com/pZUFbmc"
+    },
+    {
+      "name": "Yeji",
+      "group": "ITZY",
+      "position": "Leader, Dancer",
+      "birth_year": "2000",
+      "nationality": "Korea Selatan",
+      "image": "https://i.imgur.com/AfjPqxV.jpg"
+    },
+    {
+      "name": "Soobin",
+      "group": "TXT",
+      "position": "Leader, Vocalist",
+      "birth_year": "2000",
+      "nationality": "Korea Selatan",
+      "image": "https://i.imgur.com/VrxUZkG.jpg"
+    },
+    {
+      "name": "Yoongi",
+      "group": "BTS",
+      "position": "Rapper, Dancer",
+      "birth_year": "1993",
+      "nationality": "Korea Selatan",
+      "image": "https://imgur.com/fbqhEy8"
+    },
+    {
+      "name": "Jake",
+      "group": "Enhypen",
+      "position": "Vocalist, Visual",
+      "birth_year": "2002",
+      "nationality": "Korea Selatan",
+      "image": "https://imgur.com/rSqb4QL"
+    }
+  ]
+}
